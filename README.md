@@ -29,6 +29,12 @@ morse-code-project/
 ### 1. Install dependencies - pip install pygame
 ### 2. Run the visualizer - morse.py -V
 
+## Demo
+
+<p align="center">
+  <img src="demo.gif" width="600">
+</p>
+
 ## Author
 Elijah Shylla
 
